@@ -9,5 +9,6 @@ Run the the click_info.ipynb file to start recording and stop it by just interru
 After stopping, it generates 2 separate pickle files to store the right and left click data separately.
 Then, run the clickinfo_data_retrieval.ipynb to plot and display the data.
 
+Sample pickle files are uploaded along with code to store the values in a csv file.
 Note that the data files are overwritten each time the recording program is run.
 
